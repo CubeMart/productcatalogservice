@@ -1,4 +1,6 @@
-# productcatalogservice
+# CubeMart Product Catalog Service
+
+Product catalog microservice for CubeMart that serves product listings and product detail data over gRPC.
 
 Run the following command to restore dependencies to `vendor/` directory:
 
